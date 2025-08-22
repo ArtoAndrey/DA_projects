@@ -10,6 +10,8 @@
 - Pandas
 - NumPy
 
+#### Библиотеки для работы с файловой системой 
+-os
 #### Визуализация данных
 - plotly.graph_objects
 - seaborn
